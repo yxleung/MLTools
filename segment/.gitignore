@@ -1,0 +1,11 @@
+/target/
+/disconf/
+/log/
+.classpath
+.project
+.settings/
+*.iml
+/.idea/
+src/main/resources/data
+src/main/resources/data-for-1.6.6
+src/main/resources/custom_dict
